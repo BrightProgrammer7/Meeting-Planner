@@ -119,6 +119,9 @@
   #### **Videos démonstratif des tests d'API:**
   ![Demo APIs](Demo%20APIs.mp4)
 
+https://github.com/BrightProgrammer7/Meeting-Planner/assets/77416814/49a03b32-ff1b-4349-9e43-9aae4cf4605e
+
+
 ### IDE: Environnement de Developement
 
 - [ ] **[Intellij IDEA](https://www.jetbrains.com/idea/)**
@@ -147,6 +150,7 @@
 ![Demo Tests](Demo%20Tests.mp4)
 
 https://github.com/BrightProgrammer7/Meeting-Planner/assets/77416814/bddab752-f910-4e44-b90a-9ca0b17d0ca9
+
 
 ## Resultats des Tables
 Les informations de connexion sont dans le fichier application.properties.
