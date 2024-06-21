@@ -144,7 +144,8 @@
 
 #### **Videos démonstratif des Tests Unitaires et d’Intégrations.:**
 
-![Demo Tests](https://github.com/BrightProgrammer7/Meeting-Planner/assets/77416814/bddab752-f910-4e44-b90a-9ca0b17d0ca9)
+![Demo Tests](Demo%20Tests.mp4)
+https://github.com/BrightProgrammer7/Meeting-Planner/assets/77416814/bddab752-f910-4e44-b90a-9ca0b17d0ca9
 
 ## Resultats des Tables
 Les informations de connexion sont dans le fichier application.properties.
