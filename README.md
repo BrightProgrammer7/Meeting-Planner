@@ -158,4 +158,4 @@ Les informations de connexion sont dans le fichier application.properties.
 ![img_3.png](img_3.png)
 ![img_6.png](img_6.png)
 
-#### © 2024 By "Akhmim Abdelilah"
+#### © 2024 By **Akhmim Abdelilah** For **Zenika**
